@@ -1,7 +1,1240 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Omega Walls (Ω)",
+          "description": "Omega Walls (Ω) Deterministic runtime trust-boundary for RAG/agents: projects untrusted content into wall-pressures, accumulates session scar-mass, triggers auditable Off; enables doc blocking + tool-freeze. SynqraTech (OSS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1161785097,
+            "language": "Python",
+            "last_commit": "2026-06-23T13:46:16Z",
+            "owner": "synqratech",
+            "repo": "omega-walls",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Security by Design"
+    },
+    {
+      "description": "Frameworks and methodologies for identifying and modeling threats in LLM systems.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ThreatModels",
+          "description": "Repository for LLM threat models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 815709458,
+            "language": null,
+            "last_commit": "2024-06-15T22:58:23Z",
+            "owner": "jsotiro",
+            "repo": "ThreatModels",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Threat Modeling"
+    },
+    {
+      "description": "Tools and platforms for monitoring LLM applications, detecting anomalies, and tracking security events.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Opik",
+          "description": "Open-source platform for LLM observability, evaluations, and prompt optimization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638951438,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:35:21Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-evaluation by Future AGI",
+          "description": "Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1000146565,
+            "language": "Python",
+            "last_commit": "2026-08-23T13:05:49Z",
+            "owner": "future-agi",
+            "repo": "agent-learning-kit",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Future AGI",
+          "description": "Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1219087723,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:15:57Z",
+            "owner": "future-agi",
+            "repo": "future-agi",
+            "stars": 1801
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "Resources, databases, and benchmarks for understanding and testing jailbreak techniques against LLMs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "L1B3RT45",
+          "description": "GitHub repository containing information and tools related to AI jailbreaking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 783829247,
+            "language": null,
+            "last_commit": "2026-02-17T15:30:36Z",
+            "owner": "elder-plinius",
+            "repo": "L1B3RT4S",
+            "stars": 21129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-hacking-database",
+          "description": "This repository contains various attacks against Large Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 786968222,
+            "language": null,
+            "last_commit": "2024-05-21T16:28:34Z",
+            "owner": "pdparchitect",
+            "repo": "llm-hacking-database",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lakera PINT Benchmark",
+          "description": "A comprehensive benchmark for prompt injection detection systems. Evaluates detection systems across multiple categories (prompt injection, jailbreak, hard negatives, chat, documents) and supports evaluation in 20+ languages. Open-source benchmark with Jupyter notebook for custom evaluations.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 778457451,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-16T14:08:21Z",
+            "owner": "lakeraai",
+            "repo": "pint-benchmark",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyJailbreak",
+          "description": "An easy-to-use Python framework to generate adversarial jailbreak prompts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 750758042,
+            "language": "Python",
+            "last_commit": "2026-03-30T03:25:13Z",
+            "owner": "EasyJailbreak",
+            "repo": "EasyJailbreak",
+            "stars": 892
+          }
+        }
+      ],
+      "title": "Jailbreaks"
+    },
+    {
+      "description": "Note: For the complete and most up-to-date interactive leaderboard, visit the Hugging Face leaderboard or the GitHub repository.\nFrom this repo (last updated: December 18, 2025)\nThis is a Safety Benchmark from Stanford University",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adversarial AI - RAG Attacks and Mitigations",
+              "description": "GitHub repository on RAG attacks, mitigations, and defense strategies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830585227,
+                "language": null,
+                "last_commit": "2024-07-18T11:31:35Z",
+                "owner": "wearetyomsmnv",
+                "repo": "Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PoisonedRAG",
+              "description": "GitHub repository about poisoned RAG systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754941867,
+                "language": "Python",
+                "last_commit": "2026-01-27T15:29:32Z",
+                "owner": "sleeepeer",
+                "repo": "PoisonedRAG",
+                "stars": 298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Jailbreak on LLMs - RAG Attacks",
+              "description": "Collection of RAG-based LLM attack techniques",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820898375,
+                "language": null,
+                "last_commit": "2026-08-10T16:54:43Z",
+                "owner": "yueliu1999",
+                "repo": "Awesome-Jailbreak-on-LLMs",
+                "stars": 1600
+              }
+            }
+          ],
+          "description": "Security considerations, attacks, and defenses for Retrieval-Augmented Generation (RAG) systems.",
+          "node_type": "group",
+          "title": "RAG Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "invariant",
+              "description": "A trace analysis tool for AI agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 797652850,
+                "language": "Python",
+                "last_commit": "2026-01-12T12:50:28Z",
+                "owner": "invariantlabs-ai",
+                "repo": "invariant",
+                "stars": 448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sunglasses",
+              "description": "Runtime trust scanner for AI agents: 1,089 patterns across 65 attack categories (prompt injection, tool poisoning, MCP attacks) plus a mechanism layer. Pip package, GitHub Action, free web scan, published precision/recall benchmark.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1195908149,
+                "language": "Python",
+                "last_commit": "2026-08-23T20:55:11Z",
+                "owner": "sunglasses-dev",
+                "repo": "sunglasses",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nika",
+              "description": "Open-source Rust workflow engine for AI agents with security in the runtime: default-deny permits (fs/net/exec/tool allowlists), static secret-flow analysis before any run, cost floors, tamper-evident hash-chained traces verifiable via nika trace verify, read-only MCP oracle.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126625946,
+                "language": "Rust",
+                "last_commit": "2026-08-24T14:28:05Z",
+                "owner": "supernovae-st",
+                "repo": "nika",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentBench",
+              "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671759870,
+                "language": "Python",
+                "last_commit": "2026-02-08T17:01:05Z",
+                "owner": "THUDM",
+                "repo": "AgentBench",
+                "stars": 3687
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome MCP Security",
+              "description": "Curated list of MCP security resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 962882667,
+                "language": null,
+                "last_commit": "2026-03-03T20:29:51Z",
+                "owner": "Puliczek",
+                "repo": "awesome-mcp-security",
+                "stars": 733
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Agent Security",
+              "description": "Comprehensive collection of LLM agent security resources, attacks, vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919481184,
+                "language": null,
+                "last_commit": "2026-07-11T20:11:28Z",
+                "owner": "wearetyomsmnv",
+                "repo": "Awesome-LLM-agent-Security",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tenuo",
+              "description": "Capability-based authorization framework for AI agents. Task-scoped warrants with cryptographic attenuation, PoP binding, offline verification. LangChain/LangGraph/MCP integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1109364259,
+                "language": "Rust",
+                "last_commit": "2026-08-24T09:16:50Z",
+                "owner": "tenuo-ai",
+                "repo": "tenuo",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentLeak",
+              "description": "Full-stack benchmark for privacy leakage in multi-agent systems. Monitors 7 channels including tool calls, RAG queries, and inter-agent messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1122458704,
+                "language": "Python",
+                "last_commit": "2026-07-01T04:48:20Z",
+                "owner": "Privatris",
+                "repo": "AgentLeak",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agent-Wiz",
+              "description": "Repello AI's CLI for extracting agentic workflows from LangChain/LangGraph/CrewAI/AutoGen and running automated threat modeling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957750737,
+                "language": "Python",
+                "last_commit": "2025-11-02T05:55:24Z",
+                "owner": "Repello-AI",
+                "repo": "Agent-Wiz",
+                "stars": 393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TealTiger",
+              "description": "Deterministic governance engine for AI agents — policy enforcement, tool allowlisting, memory governance, cost tracking, and structured audit evidence (SARIF, JUnit XML, JSON). Docker sidecar for any language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150674298,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T17:05:33Z",
+                "owner": "agentguard-ai",
+                "repo": "tealtiger",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shani",
+              "description": "Open-source decision governance layer for AI agents. Signed ADO (Authorized Decision Object), HMAC-SHA256 signatures, nonce-based replay prevention, HITL approval (Slack/webhook/CLI), tamper-evident audit trail. Works with LangGraph, AutoGen, nanoclaw. Apache 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1251942823,
+                "language": "Python",
+                "last_commit": "2026-06-25T04:34:34Z",
+                "owner": "kmori-source",
+                "repo": "shani",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agent Memory Guard",
+              "description": "Official OWASP runtime defense layer that screens every read/write to AI agent memory, blocking prompt injection, secret leakage, and memory poisoning (ASI06). Integrations for LangChain, LlamaIndex, CrewAI, AutoGen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1159563091,
+                "language": "Python",
+                "last_commit": "2026-08-24T00:18:12Z",
+                "owner": "OWASP",
+                "repo": "www-project-agent-memory-guard",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Attestation Envelope Spec",
+              "description": "Thin cross-platform spec for verifiable agent attestation: typed evidence pointers (structurally excludes self-signed assertions), content-hash pinning to catch pointer drift, ed25519/RFC-8785-JCS sigchains, and signed coverage metadata that turns silent omission into a positive negative-observation. Reference verifier + conformance tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1254315972,
+                "language": "Python",
+                "last_commit": "2026-08-13T12:13:17Z",
+                "owner": "TheColonyCC",
+                "repo": "attestation-envelope-spec",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOS Kernel",
+              "description": "Deterministic trust kernel for agent fleets: verifies \"done\" claims from git evidence instead of self-report, arbitrates concurrent file access, audits commit claims against their own diffs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265531036,
+                "language": "Python",
+                "last_commit": "2026-08-22T09:04:12Z",
+                "owner": "anthony-chaudhary",
+                "repo": "dos-kernel",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adrian",
+              "description": "Open-source, AARM-aligned runtime security for AI agents: analyzes tool calls and reasoning traces, then detects/blocks prompt injection, malicious tool use, and out-of-remit actions in-flight (audit or block mode). LangChain/LangGraph/OpenAI Agents SDK; self-hostable offline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1236053139,
+                "language": "Python",
+                "last_commit": "2026-08-20T09:00:41Z",
+                "owner": "secureagentics",
+                "repo": "Adrian",
+                "stars": 548
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+              "description": "Introduces the Agentic Principal Chain (APC): six deterministic authorization checks enforced outside the model that narrow delegated authority across multi-agent chains and block prohibited compositions of individually permitted actions (composition closure). Reference implementation and evaluation on GitHub. Article",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1338133825,
+                "language": "Python",
+                "last_commit": "2026-08-22T18:07:46Z",
+                "owner": "xmuruaga",
+                "repo": "bounded-agents",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HOL Guard",
+              "description": "Local-first security harness that intercepts tool calls in AI coding agents before files change or network is contacted. Scans skills, MCP servers, and plugins for supply-chain threats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194748811,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:33:59Z",
+                "owner": "hashgraph-online",
+                "repo": "hol-guard",
+                "stars": 466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SourceryKit",
+              "description": "Python SDK that verifies an agent's outbound requests against a source of truth using zero-knowledge proofs, so a call only goes out if the agent's claims check out. Hooks into the HTTP libraries to log each call and block anything not on the trusted-endpoint allow-list, MCP handoffs included.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222392614,
+                "language": "Python",
+                "last_commit": "2026-08-21T09:16:26Z",
+                "owner": "ProvablyAI",
+                "repo": "sourcerykit",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LEASH-8",
+              "description": "Control model for agents holding delegated authority, across eight domains: identity, secrets, tool/skill supply chain, approvals, containment, egress, observability, incident response. Ships a 24-statement scored self-assessment, the plan-vs-authorize gate pattern (model plans, policy decides, executor acts), an approval-design checklist for irreversible actions, and a reference A2A Agent Card. Docs and templates — no runtime component.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1288781336,
+                "language": null,
+                "last_commit": "2026-08-10T17:20:52Z",
+                "owner": "tonydzi",
+                "repo": "agent-leash",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MandateGuard",
+              "description": "Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates with zero LLM in the decision path (reproducible verdicts). Tamper-evident SHA-256 chained audit ledger; official MCP server on the Model Context Protocol Registry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1339187684,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:30:00Z",
+                "owner": "ezequiellich44-cmd",
+                "repo": "MandateGuard",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Security tools, benchmarks, and research focused on autonomous AI agents and their vulnerabilities.",
+          "node_type": "group",
+          "title": "Agentic security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🛡️ Agent Browser Shield",
+              "description": "Open-source safety layer between browser-use AI agents and the web pages they visit. Masks PII/secrets, blocks prompt injection in invisible text and HTML comments, and strips dark patterns and noise. Chromium MV3 extension, also on Browserbase and ClawHub. PixieBrix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1253999202,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T06:34:14Z",
+                "owner": "pixiebrix",
+                "repo": "agent-browser-shield",
+                "stars": 33
+              }
+            }
+          ],
+          "description": "Security research and analysis of AI-powered browser agents and their unique attack vectors.",
+          "node_type": "group",
+          "title": "Agentic Browser Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Visual Adversarial Examples",
+              "description": "Jailbreaking Large Language Models with Visual Adversarial Examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653369312,
+                "language": "Python",
+                "last_commit": "2024-05-13T05:36:24Z",
+                "owner": "Unispac",
+                "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
+                "stars": 282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weak-to-Strong Generalization",
+              "description": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749514836,
+                "language": "Python",
+                "last_commit": "2025-05-02T02:52:44Z",
+                "owner": "XuandongZhao",
+                "repo": "weak-to-strong",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Hijacks",
+              "description": "Repository for image-based hijacks of large language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685748314,
+                "language": "Python",
+                "last_commit": "2023-09-19T20:28:31Z",
+                "owner": "euanong",
+                "repo": "image-hijacks",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CipherChat",
+              "description": "Secure communication tool for large language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676834494,
+                "language": "Python",
+                "last_commit": "2025-10-09T03:20:12Z",
+                "owner": "RobustNLP",
+                "repo": "CipherChat",
+                "stars": 628
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLMs Finetuning Safety",
+              "description": "Safety measures for fine-tuning large language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701430060,
+                "language": "Python",
+                "last_commit": "2024-02-23T21:19:44Z",
+                "owner": "LLM-Tuning-Safety",
+                "repo": "LLMs-Finetuning-Safety",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Virtual Prompt Injection",
+              "description": "Tool for virtual prompt injection in language models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706912254,
+                "language": "Python",
+                "last_commit": "2024-07-06T09:55:50Z",
+                "owner": "wegodev2",
+                "repo": "virtual-prompt-injection",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FigStep",
+              "description": "Jailbreaking Large Vision-language Models via Typographic Visual Prompts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 715882070,
+                "language": "Python",
+                "last_commit": "2025-06-26T04:41:28Z",
+                "owner": "CryptoAILab",
+                "repo": "FigStep",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stealing-part-lm-supplementary",
+              "description": "Some code for \"Stealing Part of a Production Language Model\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 774651187,
+                "language": "Python",
+                "last_commit": "2024-03-20T13:24:44Z",
+                "owner": "dpaleka",
+                "repo": "stealing-part-lm-supplementary",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hallucination-Attack",
+              "description": "Attack to induce LLMs within hallucinations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698174643,
+                "language": "Python",
+                "last_commit": "2024-05-17T08:48:15Z",
+                "owner": "PKU-YuanGroup",
+                "repo": "Hallucination-Attack",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm-hallucination-survey",
+              "description": "Reading list of hallucination in LLMs. Check out our new survey paper: \"Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664529368,
+                "language": null,
+                "last_commit": "2025-09-27T13:49:22Z",
+                "owner": "HillZhang1999",
+                "repo": "llm-hallucination-survey",
+                "stars": 1085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LMSanitator",
+              "description": "LMSanitator: Defending Large Language Models Against Stealthy Prompt Injection Attacks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 681086510,
+                "language": "Python",
+                "last_commit": "2023-08-21T08:46:25Z",
+                "owner": "meng-wenlong",
+                "repo": "LMSanitator",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Imperio",
+              "description": "Imperio: Robust Prompt Engineering for Anchoring Large Language Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738019033,
+                "language": "Python",
+                "last_commit": "2025-02-18T01:49:54Z",
+                "owner": "HKU-TASR",
+                "repo": "Imperio",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Backdoor Attacks on Fine-tuned LLaMA",
+              "description": "Backdoor Attacks on Fine-tuned LLaMA Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670113435,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-24T11:20:12Z",
+                "owner": "naimul011",
+                "repo": "backdoor_attacks_on_fine-tuned_llama",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBA",
+              "description": "Consciousness-Based Authentication for LLM Security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 697982163,
+                "language": "Python",
+                "last_commit": "2024-04-12T18:31:12Z",
+                "owner": "MiracleHH",
+                "repo": "CBA",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MuScleLoRA",
+              "description": "A Framework for Multi-scenario Backdoor Fine-tuning of LLMs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756334556,
+                "language": "Python",
+                "last_commit": "2024-12-01T14:23:50Z",
+                "owner": "ZrW00",
+                "repo": "MuScleLoRA",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BadActs",
+              "description": "BadActs: Backdoor Attacks against Large Language Models via Activation Steering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 816204258,
+                "language": "Python",
+                "last_commit": "2024-12-05T11:22:18Z",
+                "owner": "clearloveclearlove",
+                "repo": "BadActs",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TrojText",
+              "description": "Trojan Attacks on Text Classifiers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592585000,
+                "language": "Python",
+                "last_commit": "2023-10-24T15:25:12Z",
+                "owner": "UCF-ML-Research",
+                "repo": "TrojText",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnyDoor",
+              "description": "Create Arbitrary Backdoor Instances in Language Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756877519,
+                "language": "Python",
+                "last_commit": "2024-04-08T04:59:17Z",
+                "owner": "sail-sg",
+                "repo": "AnyDoor",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PromptWare",
+              "description": "A Jailbroken GenAI Model Can Cause Real Harm: GenAI-powered Applications are Vulnerable to PromptWares",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813048560,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-17T18:14:53Z",
+                "owner": "StavC",
+                "repo": "PromptWares",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BrokenHill",
+              "description": "Automated attack tool that generates crafted prompts to bypass restrictions in LLMs using greedy coordinate gradient (GCG) attack",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833826482,
+                "language": "Python",
+                "last_commit": "2024-12-18T20:03:19Z",
+                "owner": "BishopFox",
+                "repo": "BrokenHill",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OWASP Agentic AI",
+              "description": "OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 889174035,
+                "language": null,
+                "last_commit": "2026-06-02T23:08:52Z",
+                "owner": "precize",
+                "repo": "Agentic-AI-Top10-Vulnerability",
+                "stars": 197
+              }
+            }
+          ],
+          "description": "Proof of Concept implementations demonstrating various LLM attacks, vulnerabilities, and security research.",
+          "node_type": "group",
+          "title": "PoC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLMVault",
+              "description": "Open-source CTF-style LLM security lab for learning the OWASP LLM Top 10 vulnerabilities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301372808,
+                "language": "Python",
+                "last_commit": "2026-08-10T13:40:25Z",
+                "owner": "CyberSunil",
+                "repo": "LLMVault",
+                "stars": 300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "safeguarding-llms",
+              "description": "TMLS 2024 Workshop: A Practitioner's Guide To Safeguarding Your LLM Applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 819819209,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-11T16:46:22Z",
+                "owner": "sshkhr",
+                "repo": "safeguarding-llms",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Damn Vulnerable LLM Agent",
+              "description": "Intentionally vulnerable LLM agent for security testing and education",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728599607,
+                "language": "Python",
+                "last_commit": "2025-06-25T13:58:42Z",
+                "owner": "ReversecLabs",
+                "repo": "damn-vulnerable-llm-agent",
+                "stars": 507
+              }
+            }
+          ],
+          "description": "Educational platforms, CTF challenges, courses, and training resources for learning LLM security.",
+          "node_type": "group",
+          "title": "Study resource"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Safety and privacy with Large Language Models",
+              "description": "GitHub repository on LLM safety and privacy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692969307,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-25T16:25:26Z",
+                "owner": "annjawn",
+                "repo": "llm-safety-privacy",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jailbreak LLMs",
+              "description": "Data for jailbreaking Large Language Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 673534316,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-24T08:30:58Z",
+                "owner": "verazuo",
+                "repo": "jailbreak_llms",
+                "stars": 3791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT System Prompt",
+              "description": "Repository containing ChatGPT system prompts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 712897010,
+                "language": "HTML",
+                "last_commit": "2026-08-14T14:21:50Z",
+                "owner": "LouisShark",
+                "repo": "chatgpt_system_prompt",
+                "stars": 10741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Do Not Answer",
+              "description": "Project related to LLM response control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680825323,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-07T14:55:51Z",
+                "owner": "Libr-AI",
+                "repo": "do-not-answer",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ToxiGen",
+              "description": "Microsoft dataset",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 462012924,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-17T16:44:20Z",
+                "owner": "microsoft",
+                "repo": "TOXIGEN",
+                "stars": 349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm-security-prompt-injection",
+              "description": "This project investigates the security of large language models by performing binary classification of a set of input prompts to discover malicious prompts. Several approaches have been analyzed using classical ML algorithms, a trained LLM model, and a fine-tuned LLM model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721855992,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-18T23:50:31Z",
+                "owner": "sinanw",
+                "repo": "llm-security-prompt-injection",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prompt Injections Dataset",
+              "description": "Dataset containing prompt injection examples for testing and research",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 991889511,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-06-29T14:51:14Z",
+                "owner": "Dmtr-Dr",
+                "repo": "prompt-injections",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Datasets for testing LLM security, prompt injection examples, and safety evaluation data.",
+          "node_type": "group",
+          "title": "DATA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/ShenaoW/awesome-llm-supply-chain-security",
+              "description": "LLM Supply chain security resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 885692424,
+                "language": null,
+                "last_commit": "2025-01-20T12:32:30Z",
+                "owner": "ShenaoW",
+                "repo": "awesome-llm-supply-chain-security",
+                "stars": 106
+              }
+            }
+          ],
+          "description": "Operational security considerations: supply chain risks, infrastructure vulnerabilities, and production deployment security.",
+          "node_type": "group",
+          "title": "OPS"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MCP Security Governance",
+                  "description": "Cloud Security Alliance Governance framework for the Model Context Protocol ecosystem. Developing policies, standards, and assessment tools for secure MCP server deployment.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1017736427,
+                    "language": null,
+                    "last_commit": "2025-08-22T02:34:25Z",
+                    "owner": "CloudSecurityAlliance",
+                    "repo": "mcp-security-governance",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Additional Security Frameworks"
+            }
+          ],
+          "description": "Comprehensive security frameworks, standards, and governance models for LLM and AI security.\nAll OWASP GenAI Resources: genai.owasp.org/resources/\nLLMSECOPS, by OWASP",
+          "node_type": "group",
+          "title": "🏗 Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome LLM Security",
+              "description": "GitHub repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662394571,
+                "language": null,
+                "last_commit": "2025-08-20T01:27:47Z",
+                "owner": "corca-ai",
+                "repo": "awesome-llm-security",
+                "stars": 1685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Security Telegram",
+              "description": "Curated list of Telegram channels and chats on AI Security, AI/MLSecOps, LLM Security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108466955,
+                "language": null,
+                "last_commit": "2025-12-11T05:35:30Z",
+                "owner": "ivolake",
+                "repo": "awesome-ai-security-tg",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm-testing-findings",
+              "description": "Templates with recommendations, CWE and other",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714519743,
+                "language": "HTML",
+                "last_commit": "2024-02-14T23:56:33Z",
+                "owner": "BishopFox",
+                "repo": "llm-testing-findings",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arcanum Prompt Injection Taxonomy",
+              "description": "Structured taxonomy of prompt injection attacks categorizing attack intents, techniques, and evasions. Resource for security researchers, AI developers, and red teamers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 939536625,
+                "language": null,
+                "last_commit": "2026-06-29T17:37:26Z",
+                "owner": "Arcanum-Sec",
+                "repo": "arc_pi_taxonomy",
+                "stars": 754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-agent-runtime-security",
+              "description": "An imperfect, incomplete collection of projects proving the integrity of tools, tool descriptions, models, data sources, and provenance by combining isolation, sandboxing, security observability, and server-constrained or client-bound tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1165096078,
+                "language": null,
+                "last_commit": "2026-08-19T18:28:04Z",
+                "owner": "bureado",
+                "repo": "awesome-agent-runtime-security",
+                "stars": 103
+              }
+            }
+          ],
+          "description": "Community resources, platforms, and collaborative spaces for LLM security practitioners.",
+          "node_type": "group",
+          "title": "🌐 Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Agent Security Bench (ASB)",
+              "description": "Benchmark for agent security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 866876035,
+                "language": "Python",
+                "last_commit": "2026-04-16T20:53:34Z",
+                "owner": "agiresearch",
+                "repo": "ASB",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM Security Guidance Benchmarks",
+              "description": "Benchmarking lightweight, open-source LLMs for security guidance effectiveness using SECURE dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900331409,
+                "language": "Python",
+                "last_commit": "2024-12-10T21:05:43Z",
+                "owner": "davcoservices",
+                "repo": "llm_security_guidance_benchmarks",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SECURE",
+              "description": "Benchmark for evaluating LLMs in cybersecurity scenarios, focusing on Industrial Control Systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848543239,
+                "language": null,
+                "last_commit": "2024-08-28T14:01:30Z",
+                "owner": "aiforsec",
+                "repo": "SECURE",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SecLens",
+              "description": "Benchmark for evaluating LLMs on real-world vulnerability detection using 406 confirmed CVEs across 10 languages. Scores 12 frontier models through 5 stakeholder lenses and 35 dimensions aligned with OWASP categories. Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1187572843,
+                "language": "Python",
+                "last_commit": "2026-08-01T14:02:45Z",
+                "owner": "mattersec-labs",
+                "repo": "seclens",
+                "stars": 38
+              }
+            }
+          ],
+          "description": "Security benchmarks, evaluation frameworks, and standardized tests for assessing LLM security capabilities.",
+          "node_type": "group",
+          "title": "Benchmarks"
+        }
+      ],
+      "title": "Hallucinations Leaderboard"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:12:06.097Z",
+    "last_updated": "2026-08-24T14:35:25.262Z",
     "original_repository": "wearetyomsmnv/Awesome-LLMSecOps",
     "original_repository_id": 836233224,
     "original_repository_sha": "41d98bea9a64bad104d08d8ce3bd398f60bbbcdc",
