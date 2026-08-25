@@ -54,10 +54,10 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-24T21:20:20Z",
+            "last_commit": "2026-08-25T06:14:25Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21581
+            "stars": 21588
           }
         },
         {
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 1000146565,
             "language": "Python",
-            "last_commit": "2026-08-24T22:01:25Z",
+            "last_commit": "2026-08-25T05:00:45Z",
             "owner": "future-agi",
             "repo": "agent-learning-kit",
             "stars": 117
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-24T20:25:13Z",
+            "last_commit": "2026-08-25T06:17:54Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1806
+            "stars": 1807
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2026-02-17T15:30:36Z",
             "owner": "elder-plinius",
             "repo": "L1B3RT4S",
-            "stars": 21145
+            "stars": 21148
           }
         },
         {
@@ -228,7 +228,7 @@
                 "last_commit": "2026-01-12T12:50:28Z",
                 "owner": "invariantlabs-ai",
                 "repo": "invariant",
-                "stars": 449
+                "stars": 450
               }
             },
             {
@@ -255,10 +255,10 @@
                 "archived": false,
                 "id": 1126625946,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:55:26Z",
+                "last_commit": "2026-08-25T05:43:17Z",
                 "owner": "supernovae-st",
                 "repo": "nika",
-                "stars": 57
+                "stars": 58
               }
             },
             {
@@ -273,7 +273,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3687
+                "stars": 3690
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-24T19:23:22Z",
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 86
+                "stars": 87
               }
             },
             {
@@ -390,7 +390,7 @@
                 "archived": false,
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:39:50Z",
+                "last_commit": "2026-08-25T06:07:15Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
                 "stars": 155
@@ -465,10 +465,10 @@
                 "archived": false,
                 "id": 1194748811,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:26:09Z",
+                "last_commit": "2026-08-25T04:53:26Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard",
-                "stars": 469
+                "stars": 472
               }
             },
             {
@@ -647,7 +647,7 @@
                 "last_commit": "2025-06-26T04:41:28Z",
                 "owner": "CryptoAILab",
                 "repo": "FigStep",
-                "stars": 212
+                "stars": 213
               }
             },
             {
@@ -879,7 +879,7 @@
                 "last_commit": "2026-08-10T13:40:25Z",
                 "owner": "CyberSunil",
                 "repo": "LLMVault",
-                "stars": 300
+                "stars": 301
               }
             },
             {
@@ -1033,7 +1033,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/ShenaoW/awesome-llm-supply-chain-security",
+              "title": "ShenaoW/awesome-llm-supply-chain-security",
               "description": "LLM Supply chain security resources",
               "children": [],
               "repo_info": {
@@ -1234,7 +1234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:07:15.496Z",
+    "last_updated": "2026-08-25T06:27:58.024Z",
     "original_repository": "wearetyomsmnv/Awesome-LLMSecOps",
     "original_repository_id": 836233224,
     "original_repository_sha": "41d98bea9a64bad104d08d8ce3bd398f60bbbcdc",
