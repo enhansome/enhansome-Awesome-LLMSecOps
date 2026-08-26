@@ -54,10 +54,10 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-25T06:14:25Z",
+            "last_commit": "2026-08-26T02:59:07Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21588
+            "stars": 21605
           }
         },
         {
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 1000146565,
             "language": "Python",
-            "last_commit": "2026-08-25T05:00:45Z",
+            "last_commit": "2026-08-26T03:03:31Z",
             "owner": "future-agi",
             "repo": "agent-learning-kit",
             "stars": 117
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-25T06:17:54Z",
+            "last_commit": "2026-08-26T00:01:46Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1807
+            "stars": 1817
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2026-02-17T15:30:36Z",
             "owner": "elder-plinius",
             "repo": "L1B3RT4S",
-            "stars": 21148
+            "stars": 21170
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-03-30T03:25:13Z",
             "owner": "EasyJailbreak",
             "repo": "EasyJailbreak",
-            "stars": 892
+            "stars": 891
           }
         }
       ],
@@ -206,7 +206,7 @@
                 "last_commit": "2026-08-10T16:54:43Z",
                 "owner": "yueliu1999",
                 "repo": "Awesome-Jailbreak-on-LLMs",
-                "stars": 1601
+                "stars": 1600
               }
             }
           ],
@@ -228,7 +228,7 @@
                 "last_commit": "2026-01-12T12:50:28Z",
                 "owner": "invariantlabs-ai",
                 "repo": "invariant",
-                "stars": 450
+                "stars": 451
               }
             },
             {
@@ -255,7 +255,7 @@
                 "archived": false,
                 "id": 1126625946,
                 "language": "Rust",
-                "last_commit": "2026-08-25T05:43:17Z",
+                "last_commit": "2026-08-25T16:06:46Z",
                 "owner": "supernovae-st",
                 "repo": "nika",
                 "stars": 58
@@ -273,7 +273,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3690
+                "stars": 3692
               }
             },
             {
@@ -390,7 +390,7 @@
                 "archived": false,
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:07:15Z",
+                "last_commit": "2026-08-26T01:30:36Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
                 "stars": 155
@@ -438,7 +438,7 @@
                 "last_commit": "2026-08-20T09:00:41Z",
                 "owner": "secureagentics",
                 "repo": "Adrian",
-                "stars": 548
+                "stars": 549
               }
             },
             {
@@ -465,10 +465,10 @@
                 "archived": false,
                 "id": 1194748811,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:53:26Z",
+                "last_commit": "2026-08-26T03:06:46Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard",
-                "stars": 472
+                "stars": 479
               }
             },
             {
@@ -480,7 +480,7 @@
                 "archived": false,
                 "id": 1222392614,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:16:26Z",
+                "last_commit": "2026-08-25T11:29:34Z",
                 "owner": "ProvablyAI",
                 "repo": "sourcerykit",
                 "stars": 18
@@ -602,7 +602,7 @@
                 "last_commit": "2025-10-09T03:20:12Z",
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
-                "stars": 628
+                "stars": 627
               }
             },
             {
@@ -647,7 +647,7 @@
                 "last_commit": "2025-06-26T04:41:28Z",
                 "owner": "CryptoAILab",
                 "repo": "FigStep",
-                "stars": 213
+                "stars": 212
               }
             },
             {
@@ -677,7 +677,7 @@
                 "last_commit": "2024-05-17T08:48:15Z",
                 "owner": "PKU-YuanGroup",
                 "repo": "Hallucination-Attack",
-                "stars": 163
+                "stars": 164
               }
             },
             {
@@ -879,7 +879,7 @@
                 "last_commit": "2026-08-10T13:40:25Z",
                 "owner": "CyberSunil",
                 "repo": "LLMVault",
-                "stars": 301
+                "stars": 303
               }
             },
             {
@@ -909,7 +909,7 @@
                 "last_commit": "2025-06-25T13:58:42Z",
                 "owner": "ReversecLabs",
                 "repo": "damn-vulnerable-llm-agent",
-                "stars": 507
+                "stars": 508
               }
             }
           ],
@@ -946,7 +946,7 @@
                 "last_commit": "2024-12-24T08:30:58Z",
                 "owner": "verazuo",
                 "repo": "jailbreak_llms",
-                "stars": 3791
+                "stars": 3790
               }
             },
             {
@@ -1094,7 +1094,7 @@
                 "last_commit": "2025-08-20T01:27:47Z",
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1685
+                "stars": 1686
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-06-29T17:37:26Z",
                 "owner": "Arcanum-Sec",
                 "repo": "arc_pi_taxonomy",
-                "stars": 755
+                "stars": 754
               }
             },
             {
@@ -1234,7 +1234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:58.024Z",
+    "last_updated": "2026-08-26T03:13:40.488Z",
     "original_repository": "wearetyomsmnv/Awesome-LLMSecOps",
     "original_repository_id": 836233224,
     "original_repository_sha": "41d98bea9a64bad104d08d8ce3bd398f60bbbcdc",
