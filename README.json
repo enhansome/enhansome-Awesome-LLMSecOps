@@ -54,10 +54,10 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-26T02:59:07Z",
+            "last_commit": "2026-08-27T11:27:24Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21605
+            "stars": 21632
           }
         },
         {
@@ -69,7 +69,7 @@
             "archived": false,
             "id": 1000146565,
             "language": "Python",
-            "last_commit": "2026-08-26T03:03:31Z",
+            "last_commit": "2026-08-27T10:53:57Z",
             "owner": "future-agi",
             "repo": "agent-learning-kit",
             "stars": 117
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-26T00:01:46Z",
+            "last_commit": "2026-08-27T11:22:40Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1817
+            "stars": 1839
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2026-02-17T15:30:36Z",
             "owner": "elder-plinius",
             "repo": "L1B3RT4S",
-            "stars": 21170
+            "stars": 21195
           }
         },
         {
@@ -206,7 +206,7 @@
                 "last_commit": "2026-08-10T16:54:43Z",
                 "owner": "yueliu1999",
                 "repo": "Awesome-Jailbreak-on-LLMs",
-                "stars": 1600
+                "stars": 1603
               }
             }
           ],
@@ -228,7 +228,7 @@
                 "last_commit": "2026-01-12T12:50:28Z",
                 "owner": "invariantlabs-ai",
                 "repo": "invariant",
-                "stars": 451
+                "stars": 453
               }
             },
             {
@@ -255,7 +255,7 @@
                 "archived": false,
                 "id": 1126625946,
                 "language": "Rust",
-                "last_commit": "2026-08-25T16:06:46Z",
+                "last_commit": "2026-08-27T10:10:32Z",
                 "owner": "supernovae-st",
                 "repo": "nika",
                 "stars": 58
@@ -273,7 +273,7 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3692
+                "stars": 3699
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2026-08-24T19:23:22Z",
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 87
+                "stars": 88
               }
             },
             {
@@ -360,7 +360,7 @@
                 "archived": false,
                 "id": 1150674298,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T17:05:33Z",
+                "last_commit": "2026-08-26T16:54:41Z",
                 "owner": "agentguard-ai",
                 "repo": "tealtiger",
                 "stars": 26
@@ -390,10 +390,10 @@
                 "archived": false,
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-26T01:30:36Z",
+                "last_commit": "2026-08-27T02:35:04Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 155
+                "stars": 156
               }
             },
             {
@@ -465,10 +465,10 @@
                 "archived": false,
                 "id": 1194748811,
                 "language": "Python",
-                "last_commit": "2026-08-26T03:06:46Z",
+                "last_commit": "2026-08-27T11:23:53Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard",
-                "stars": 479
+                "stars": 486
               }
             },
             {
@@ -480,7 +480,7 @@
                 "archived": false,
                 "id": 1222392614,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:29:34Z",
+                "last_commit": "2026-08-26T08:56:56Z",
                 "owner": "ProvablyAI",
                 "repo": "sourcerykit",
                 "stars": 18
@@ -495,7 +495,7 @@
                 "archived": false,
                 "id": 1288781336,
                 "language": null,
-                "last_commit": "2026-08-10T17:20:52Z",
+                "last_commit": "2026-08-26T09:41:06Z",
                 "owner": "tonydzi",
                 "repo": "agent-leash",
                 "stars": 2
@@ -535,7 +535,7 @@
                 "last_commit": "2026-08-22T06:34:14Z",
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
-                "stars": 33
+                "stars": 34
               }
             }
           ],
@@ -557,7 +557,7 @@
                 "last_commit": "2024-05-13T05:36:24Z",
                 "owner": "Unispac",
                 "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
-                "stars": 282
+                "stars": 281
               }
             },
             {
@@ -879,7 +879,7 @@
                 "last_commit": "2026-08-10T13:40:25Z",
                 "owner": "CyberSunil",
                 "repo": "LLMVault",
-                "stars": 303
+                "stars": 304
               }
             },
             {
@@ -909,7 +909,7 @@
                 "last_commit": "2025-06-25T13:58:42Z",
                 "owner": "ReversecLabs",
                 "repo": "damn-vulnerable-llm-agent",
-                "stars": 508
+                "stars": 509
               }
             }
           ],
@@ -946,7 +946,7 @@
                 "last_commit": "2024-12-24T08:30:58Z",
                 "owner": "verazuo",
                 "repo": "jailbreak_llms",
-                "stars": 3790
+                "stars": 3793
               }
             },
             {
@@ -961,7 +961,7 @@
                 "last_commit": "2026-08-14T14:21:50Z",
                 "owner": "LouisShark",
                 "repo": "chatgpt_system_prompt",
-                "stars": 10740
+                "stars": 10745
               }
             },
             {
@@ -1139,7 +1139,7 @@
                 "last_commit": "2026-06-29T17:37:26Z",
                 "owner": "Arcanum-Sec",
                 "repo": "arc_pi_taxonomy",
-                "stars": 754
+                "stars": 755
               }
             },
             {
@@ -1234,9 +1234,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:13:40.488Z",
-    "original_repository": "wearetyomsmnv/Awesome-LLMSecOps",
-    "original_repository_id": 836233224,
+    "last_updated": "2026-08-27T11:28:07.125Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 836233224,
+      "language": "HTML",
+      "last_commit": "2026-08-23T18:55:39Z",
+      "owner": "wearetyomsmnv",
+      "repo": "Awesome-LLMSecOps",
+      "stars": 152
+    },
     "original_repository_sha": "41d98bea9a64bad104d08d8ce3bd398f60bbbcdc",
     "enhanced_repository": "enhansome/enhansome-Awesome-LLMSecOps",
     "enhanced_repository_description": null,
