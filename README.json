@@ -54,7 +54,7 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-27T11:27:24Z",
+            "last_commit": "2026-08-27T12:42:07Z",
             "owner": "comet-ml",
             "repo": "opik",
             "stars": 21632
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-27T11:22:40Z",
+            "last_commit": "2026-08-27T12:42:22Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1839
+            "stars": 1841
           }
         }
       ],
@@ -393,7 +393,7 @@
                 "last_commit": "2026-08-27T02:35:04Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -465,10 +465,10 @@
                 "archived": false,
                 "id": 1194748811,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:23:53Z",
+                "last_commit": "2026-08-27T12:41:36Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard",
-                "stars": 486
+                "stars": 487
               }
             },
             {
@@ -1234,7 +1234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:07.125Z",
+    "last_updated": "2026-08-27T12:43:22.677Z",
     "original_repository_info": {
       "archived": false,
       "id": 836233224,
