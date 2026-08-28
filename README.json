@@ -16,7 +16,8 @@
             "owner": "synqratech",
             "repo": "omega-walls",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         }
       ],
       "title": "Security by Design"
@@ -37,7 +38,8 @@
             "owner": "jsotiro",
             "repo": "ThreatModels",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         }
       ],
       "title": "Threat Modeling"
@@ -54,11 +56,12 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-27T12:42:07Z",
+            "last_commit": "2026-08-28T14:07:16Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21632
-          }
+            "stars": 21650
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         },
         {
           "node_type": "item",
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 1000146565,
             "language": "Python",
-            "last_commit": "2026-08-27T10:53:57Z",
+            "last_commit": "2026-08-28T11:42:23Z",
             "owner": "future-agi",
             "repo": "agent-learning-kit",
-            "stars": 117
-          }
+            "stars": 118
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         },
         {
           "node_type": "item",
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-27T12:42:22Z",
+            "last_commit": "2026-08-28T13:56:12Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1841
-          }
+            "stars": 1856
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         }
       ],
       "title": "Monitoring"
@@ -108,8 +113,9 @@
             "last_commit": "2026-02-17T15:30:36Z",
             "owner": "elder-plinius",
             "repo": "L1B3RT4S",
-            "stars": 21195
-          }
+            "stars": 21219
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "pdparchitect",
             "repo": "llm-hacking-database",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "lakeraai",
             "repo": "pint-benchmark",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-03-30T03:25:13Z",
             "owner": "EasyJailbreak",
             "repo": "EasyJailbreak",
-            "stars": 891
-          }
+            "stars": 893
+          },
+          "first_seen": "2026-08-28T14:16:56.020Z"
         }
       ],
       "title": "Jailbreaks"
@@ -177,7 +186,8 @@
                 "owner": "wearetyomsmnv",
                 "repo": "Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -192,7 +202,8 @@
                 "owner": "sleeepeer",
                 "repo": "PoisonedRAG",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -206,8 +217,9 @@
                 "last_commit": "2026-08-10T16:54:43Z",
                 "owner": "yueliu1999",
                 "repo": "Awesome-Jailbreak-on-LLMs",
-                "stars": 1603
-              }
+                "stars": 1604
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Security considerations, attacks, and defenses for Retrieval-Augmented Generation (RAG) systems.",
@@ -229,7 +241,8 @@
                 "owner": "invariantlabs-ai",
                 "repo": "invariant",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -244,7 +257,8 @@
                 "owner": "sunglasses-dev",
                 "repo": "sunglasses",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -255,11 +269,12 @@
                 "archived": false,
                 "id": 1126625946,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:10:32Z",
+                "last_commit": "2026-08-28T09:28:46Z",
                 "owner": "supernovae-st",
                 "repo": "nika",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -273,8 +288,9 @@
                 "last_commit": "2026-02-08T17:01:05Z",
                 "owner": "THUDM",
                 "repo": "AgentBench",
-                "stars": 3699
-              }
+                "stars": 3701
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -288,8 +304,9 @@
                 "last_commit": "2026-03-03T20:29:51Z",
                 "owner": "Puliczek",
                 "repo": "awesome-mcp-security",
-                "stars": 733
-              }
+                "stars": 732
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -304,7 +321,8 @@
                 "owner": "wearetyomsmnv",
                 "repo": "Awesome-LLM-agent-Security",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -319,7 +337,8 @@
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -334,7 +353,8 @@
                 "owner": "Privatris",
                 "repo": "AgentLeak",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -349,7 +369,8 @@
                 "owner": "Repello-AI",
                 "repo": "Agent-Wiz",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -360,11 +381,12 @@
                 "archived": false,
                 "id": 1150674298,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:54:41Z",
+                "last_commit": "2026-08-27T14:22:28Z",
                 "owner": "agentguard-ai",
                 "repo": "tealtiger",
-                "stars": 26
-              }
+                "stars": 27
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -379,7 +401,8 @@
                 "owner": "kmori-source",
                 "repo": "shani",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -390,11 +413,12 @@
                 "archived": false,
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-27T02:35:04Z",
+                "last_commit": "2026-08-28T03:44:22Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 157
-              }
+                "stars": 160
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -409,7 +433,8 @@
                 "owner": "TheColonyCC",
                 "repo": "attestation-envelope-spec",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -424,7 +449,8 @@
                 "owner": "anthony-chaudhary",
                 "repo": "dos-kernel",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -438,8 +464,9 @@
                 "last_commit": "2026-08-20T09:00:41Z",
                 "owner": "secureagentics",
                 "repo": "Adrian",
-                "stars": 549
-              }
+                "stars": 550
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -454,7 +481,8 @@
                 "owner": "xmuruaga",
                 "repo": "bounded-agents",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -465,11 +493,12 @@
                 "archived": false,
                 "id": 1194748811,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:41:36Z",
+                "last_commit": "2026-08-28T13:11:13Z",
                 "owner": "hashgraph-online",
                 "repo": "hol-guard",
-                "stars": 487
-              }
+                "stars": 492
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -480,11 +509,12 @@
                 "archived": false,
                 "id": 1222392614,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:56:56Z",
+                "last_commit": "2026-08-28T12:58:24Z",
                 "owner": "ProvablyAI",
                 "repo": "sourcerykit",
-                "stars": 18
-              }
+                "stars": 19
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -499,22 +529,8 @@
                 "owner": "tonydzi",
                 "repo": "agent-leash",
                 "stars": 2
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MandateGuard",
-              "description": "Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates with zero LLM in the decision path (reproducible verdicts). Tamper-evident SHA-256 chained audit ledger; official MCP server on the Model Context Protocol Registry.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1339187684,
-                "language": "Python",
-                "last_commit": "2026-08-21T16:30:00Z",
-                "owner": "ezequiellich44-cmd",
-                "repo": "MandateGuard",
-                "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Security tools, benchmarks, and research focused on autonomous AI agents and their vulnerabilities.",
@@ -536,7 +552,8 @@
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Security research and analysis of AI-powered browser agents and their unique attack vectors.",
@@ -558,7 +575,8 @@
                 "owner": "Unispac",
                 "repo": "Visual-Adversarial-Examples-Jailbreak-Large-Language-Models",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -573,7 +591,8 @@
                 "owner": "XuandongZhao",
                 "repo": "weak-to-strong",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -588,7 +607,8 @@
                 "owner": "euanong",
                 "repo": "image-hijacks",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -603,7 +623,8 @@
                 "owner": "RobustNLP",
                 "repo": "CipherChat",
                 "stars": 627
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -618,7 +639,8 @@
                 "owner": "LLM-Tuning-Safety",
                 "repo": "LLMs-Finetuning-Safety",
                 "stars": 358
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -633,7 +655,8 @@
                 "owner": "wegodev2",
                 "repo": "virtual-prompt-injection",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -648,7 +671,8 @@
                 "owner": "CryptoAILab",
                 "repo": "FigStep",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -663,7 +687,8 @@
                 "owner": "dpaleka",
                 "repo": "stealing-part-lm-supplementary",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -678,7 +703,8 @@
                 "owner": "PKU-YuanGroup",
                 "repo": "Hallucination-Attack",
                 "stars": 164
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -693,7 +719,8 @@
                 "owner": "HillZhang1999",
                 "repo": "llm-hallucination-survey",
                 "stars": 1085
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -708,7 +735,8 @@
                 "owner": "meng-wenlong",
                 "repo": "LMSanitator",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -723,7 +751,8 @@
                 "owner": "HKU-TASR",
                 "repo": "Imperio",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -738,7 +767,8 @@
                 "owner": "naimul011",
                 "repo": "backdoor_attacks_on_fine-tuned_llama",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -753,7 +783,8 @@
                 "owner": "MiracleHH",
                 "repo": "CBA",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -768,7 +799,8 @@
                 "owner": "ZrW00",
                 "repo": "MuScleLoRA",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -783,7 +815,8 @@
                 "owner": "clearloveclearlove",
                 "repo": "BadActs",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -798,7 +831,8 @@
                 "owner": "UCF-ML-Research",
                 "repo": "TrojText",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -813,7 +847,8 @@
                 "owner": "sail-sg",
                 "repo": "AnyDoor",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -828,7 +863,8 @@
                 "owner": "StavC",
                 "repo": "PromptWares",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -843,7 +879,8 @@
                 "owner": "BishopFox",
                 "repo": "BrokenHill",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -858,7 +895,8 @@
                 "owner": "precize",
                 "repo": "Agentic-AI-Top10-Vulnerability",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Proof of Concept implementations demonstrating various LLM attacks, vulnerabilities, and security research.",
@@ -879,8 +917,9 @@
                 "last_commit": "2026-08-10T13:40:25Z",
                 "owner": "CyberSunil",
                 "repo": "LLMVault",
-                "stars": 304
-              }
+                "stars": 305
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -895,7 +934,8 @@
                 "owner": "sshkhr",
                 "repo": "safeguarding-llms",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -909,8 +949,9 @@
                 "last_commit": "2025-06-25T13:58:42Z",
                 "owner": "ReversecLabs",
                 "repo": "damn-vulnerable-llm-agent",
-                "stars": 509
-              }
+                "stars": 510
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Educational platforms, CTF challenges, courses, and training resources for learning LLM security.",
@@ -932,7 +973,8 @@
                 "owner": "annjawn",
                 "repo": "llm-safety-privacy",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -946,8 +988,9 @@
                 "last_commit": "2024-12-24T08:30:58Z",
                 "owner": "verazuo",
                 "repo": "jailbreak_llms",
-                "stars": 3793
-              }
+                "stars": 3794
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1005,8 @@
                 "owner": "LouisShark",
                 "repo": "chatgpt_system_prompt",
                 "stars": 10745
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1021,8 @@
                 "owner": "Libr-AI",
                 "repo": "do-not-answer",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1037,8 @@
                 "owner": "microsoft",
                 "repo": "TOXIGEN",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1053,8 @@
                 "owner": "sinanw",
                 "repo": "llm-security-prompt-injection",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1069,8 @@
                 "owner": "Dmtr-Dr",
                 "repo": "prompt-injections",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Datasets for testing LLM security, prompt injection examples, and safety evaluation data.",
@@ -1044,7 +1092,8 @@
                 "owner": "ShenaoW",
                 "repo": "awesome-llm-supply-chain-security",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Operational security considerations: supply chain risks, infrastructure vulnerabilities, and production deployment security.",
@@ -1068,7 +1117,8 @@
                     "owner": "CloudSecurityAlliance",
                     "repo": "mcp-security-governance",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T14:16:56.020Z"
                 }
               ],
               "description": null,
@@ -1094,8 +1144,9 @@
                 "last_commit": "2025-08-20T01:27:47Z",
                 "owner": "corca-ai",
                 "repo": "awesome-llm-security",
-                "stars": 1686
-              }
+                "stars": 1687
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1161,8 @@
                 "owner": "ivolake",
                 "repo": "awesome-ai-security-tg",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1177,8 @@
                 "owner": "BishopFox",
                 "repo": "llm-testing-findings",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1139,8 +1192,9 @@
                 "last_commit": "2026-06-29T17:37:26Z",
                 "owner": "Arcanum-Sec",
                 "repo": "arc_pi_taxonomy",
-                "stars": 755
-              }
+                "stars": 756
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1209,8 @@
                 "owner": "bureado",
                 "repo": "awesome-agent-runtime-security",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Community resources, platforms, and collaborative spaces for LLM security practitioners.",
@@ -1176,8 +1231,9 @@
                 "last_commit": "2026-04-16T20:53:34Z",
                 "owner": "agiresearch",
                 "repo": "ASB",
-                "stars": 290
-              }
+                "stars": 291
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1192,7 +1248,8 @@
                 "owner": "davcoservices",
                 "repo": "llm_security_guidance_benchmarks",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1207,7 +1264,8 @@
                 "owner": "aiforsec",
                 "repo": "SECURE",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             },
             {
               "node_type": "item",
@@ -1222,7 +1280,8 @@
                 "owner": "mattersec-labs",
                 "repo": "seclens",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T14:16:56.020Z"
             }
           ],
           "description": "Security benchmarks, evaluation frameworks, and standardized tests for assessing LLM security capabilities.",
@@ -1234,7 +1293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:43:22.677Z",
+    "last_updated": "2026-08-28T14:16:56.020Z",
     "original_repository_info": {
       "archived": false,
       "id": 836233224,
